@@ -1,0 +1,9 @@
+output:
+  text: Hello World
+
+image: textgeneration
+company: yourcompany
+version: latest
+
+# Details of class inheriting from Wrapper
+wrapper-info: textgeneration.wrapper.PipelineWrapper
